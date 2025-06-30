@@ -34,4 +34,8 @@
     - For `star.cpp`, you will be prompted to enter a character; the pattern will be drawn using your input.
 
 ## Example Output
+![Screenshot 2025-06-30 120648](https://github.com/user-attachments/assets/4609624e-96a6-4b6f-afea-39b588b64c18)
+
+![image](https://github.com/user-attachments/assets/84572508-fa73-4a72-8106-4bc6d77b4d22)
+
 
